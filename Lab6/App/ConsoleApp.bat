@@ -1,0 +1,1 @@
+java -jar Lab6-1.0-SNAPSHOT.jar consoleApp
